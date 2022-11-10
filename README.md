@@ -32,7 +32,7 @@ To use visit https://chazillaa.github.io/GT-BC-HW-03
 
 ## Screenshot
 
-![](assets/images/03-javascript-homework-demo.png)
+![](Assets/images/GT-BC-HW-03-SCREEN%20SHOT.PNG)
 
 ## Credits
 
